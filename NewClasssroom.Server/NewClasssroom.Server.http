@@ -1,0 +1,6 @@
+@NewClasssroom.Server_HostAddress = http://localhost:5162
+
+GET {{NewClasssroom.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
