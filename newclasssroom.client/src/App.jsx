@@ -75,7 +75,7 @@ function App() {
         <div className="login-container">
             {logueado ? (
                 <div>
-                    <h1>Bienvenido, {usuario}!</h1>
+                    <h1>Bienvenidos, {usuario}!</h1>
                     <p>Has iniciado sesion correctamente.</p>
                 </div>
             ) : (
