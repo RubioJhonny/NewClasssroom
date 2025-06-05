@@ -140,7 +140,7 @@ function App() {
                 <Menu />
             ) : (
                 <form onSubmit={manejarLogin}>
-                    <h2>Iniciar Sesión</h2>
+                    <h2>Iniciar Sesion</h2>
 
                     <label>Usuario:</label><br />
                     <input
@@ -150,7 +150,7 @@ function App() {
                         required
                     /><br />
 
-                    <label>Contraseña:</label><br />
+                    <label>Contrasena:</label><br />
                     <input
                         type="password"
                         value={contrasena}
