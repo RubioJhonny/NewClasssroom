@@ -23,7 +23,7 @@ function Menu() {
 
             <ul>
                 <li><Link to="/registro-equipo">Registrar Equipo</Link></li>
-                <li><Link to="/espacios">Gestión de Espacios</Link></li>
+                <li><Link to="/espacios">Gestion de Espacios</Link></li>
             </ul>
 
             {vistaActual && (
