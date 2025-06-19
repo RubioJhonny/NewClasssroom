@@ -16,6 +16,7 @@ function Menu() {
             <div className="menu">
                
                 <button onClick={() => mostrar('usuarios')}>Ver Registros de Usuarios</button>
+                <button onClick={() => mostrar('usuarios')}>Ver Registros de Usuariossssssssssssss</button>
                 <button onClick={() => mostrar('docentes')}>Ver Registros de Docentes</button>
                 <button onClick={() => mostrar('alumnos')}>Ver Registros de Alumnos</button>
                 <button onClick={() => mostrar('reservas')}>Ver Registros de Reservas</button>
